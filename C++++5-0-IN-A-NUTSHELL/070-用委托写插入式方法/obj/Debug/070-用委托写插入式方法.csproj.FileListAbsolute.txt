@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\070-用委托写插入式方法\bin\Debug\070-用委托写插入式方法.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\070-用委托写插入式方法\bin\Debug\070-用委托写插入式方法.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\070-用委托写插入式方法\bin\Debug\070-用委托写插入式方法.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\070-用委托写插入式方法\obj\Debug\070-用委托写插入式方法.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\070-用委托写插入式方法\obj\Debug\070-用委托写插入式方法.pdb

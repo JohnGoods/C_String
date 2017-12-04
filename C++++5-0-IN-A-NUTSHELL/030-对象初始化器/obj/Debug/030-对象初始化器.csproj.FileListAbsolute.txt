@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\030-对象初始化器\bin\Debug\030-对象初始化器.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\030-对象初始化器\bin\Debug\030-对象初始化器.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\030-对象初始化器\bin\Debug\030-对象初始化器.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\030-对象初始化器\obj\Debug\030-对象初始化器.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\030-对象初始化器\obj\Debug\030-对象初始化器.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\030-对象初始化器\obj\Debug\030-对象初始化器.pdb

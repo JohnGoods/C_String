@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\116-命名与位置属性参数\bin\Debug\116-命名与位置属性参数.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\116-命名与位置属性参数\obj\Debug\116-命名与位置属性参数.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\116-命名与位置属性参数\bin\Debug\116-命名与位置属性参数.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\116-命名与位置属性参数\bin\Debug\116-命名与位置属性参数.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\116-命名与位置属性参数\obj\Debug\116-命名与位置属性参数.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\116-命名与位置属性参数\obj\Debug\116-命名与位置属性参数.pdb

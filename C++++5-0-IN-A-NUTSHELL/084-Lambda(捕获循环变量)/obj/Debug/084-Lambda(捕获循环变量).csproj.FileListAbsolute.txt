@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\084-Lambda(捕获循环变量)\bin\Debug\084-Lambda(捕获循环变量).exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\084-Lambda(捕获循环变量)\bin\Debug\084-Lambda(捕获循环变量).exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\084-Lambda(捕获循环变量)\bin\Debug\084-Lambda(捕获循环变量).pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\084-Lambda(捕获循环变量)\obj\Debug\084-Lambda(捕获循环变量).exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\084-Lambda(捕获循环变量)\obj\Debug\084-Lambda(捕获循环变量).pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\012-简化数组初始化表达式\bin\Debug\012-简化数组初始化表达式.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\012-简化数组初始化表达式\bin\Debug\012-简化数组初始化表达式.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\012-简化数组初始化表达式\bin\Debug\012-简化数组初始化表达式.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\012-简化数组初始化表达式\obj\Debug\012-简化数组初始化表达式.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\012-简化数组初始化表达式\obj\Debug\012-简化数组初始化表达式.pdb

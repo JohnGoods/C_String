@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\133-框架基础(字符)\bin\Debug\133-框架基础(字符).exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\133-框架基础(字符)\bin\Debug\133-框架基础(字符).exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\133-框架基础(字符)\bin\Debug\133-框架基础(字符).pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\133-框架基础(字符)\obj\Debug\133-框架基础(字符).csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\133-框架基础(字符)\obj\Debug\133-框架基础(字符).exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\133-框架基础(字符)\obj\Debug\133-框架基础(字符).pdb

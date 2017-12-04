@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\083-Lambda(捕获外部变量)\bin\Debug\083-Lambda(捕获外部变量).exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\083-Lambda(捕获外部变量)\bin\Debug\083-Lambda(捕获外部变量).exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\083-Lambda(捕获外部变量)\bin\Debug\083-Lambda(捕获外部变量).pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\083-Lambda(捕获外部变量)\obj\Debug\083-Lambda(捕获外部变量).exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\083-Lambda(捕获外部变量)\obj\Debug\083-Lambda(捕获外部变量).pdb

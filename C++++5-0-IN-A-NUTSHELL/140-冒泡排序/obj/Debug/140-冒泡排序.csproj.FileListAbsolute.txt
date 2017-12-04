@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\140-冒泡排序\bin\Debug\140-冒泡排序.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\140-冒泡排序\bin\Debug\140-冒泡排序.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\140-冒泡排序\bin\Debug\140-冒泡排序.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\140-冒泡排序\obj\Debug\140-冒泡排序.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\140-冒泡排序\obj\Debug\140-冒泡排序.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\140-冒泡排序\obj\Debug\140-冒泡排序.pdb

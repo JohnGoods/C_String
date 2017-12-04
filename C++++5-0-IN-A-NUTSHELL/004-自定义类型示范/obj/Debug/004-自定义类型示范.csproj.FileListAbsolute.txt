@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\004-自定义类型示范\bin\Debug\004-自定义类型示范.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\004-自定义类型示范\bin\Debug\004-自定义类型示范.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\004-自定义类型示范\bin\Debug\004-自定义类型示范.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\004-自定义类型示范\obj\Debug\004-自定义类型示范.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\004-自定义类型示范\obj\Debug\004-自定义类型示范.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\004-自定义类型示范\obj\Debug\004-自定义类型示范.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\046-GetType方法和typeof运算符\bin\Debug\046-GetType方法和typeof运算符.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\046-GetType方法和typeof运算符\bin\Debug\046-GetType方法和typeof运算符.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\046-GetType方法和typeof运算符\bin\Debug\046-GetType方法和typeof运算符.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\046-GetType方法和typeof运算符\obj\Debug\046-GetType方法和typeof运算符.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\046-GetType方法和typeof运算符\obj\Debug\046-GetType方法和typeof运算符.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\046-GetType方法和typeof运算符\obj\Debug\046-GetType方法和typeof运算符.pdb

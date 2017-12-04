@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\077-事件实例\bin\Debug\077-事件实例.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\077-事件实例\obj\Debug\077-事件实例.csprojResolveAssemblyReference.cache

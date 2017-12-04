@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\132-诊断与代码协定\bin\Debug\132-诊断与代码协定.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\132-诊断与代码协定\obj\Debug\132-诊断与代码协定.csprojResolveAssemblyReference.cache

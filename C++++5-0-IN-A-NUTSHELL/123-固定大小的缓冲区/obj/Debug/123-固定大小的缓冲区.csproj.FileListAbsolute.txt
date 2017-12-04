@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\123-固定大小的缓冲区\bin\Debug\123-固定大小的缓冲区.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\123-固定大小的缓冲区\bin\Debug\123-固定大小的缓冲区.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\123-固定大小的缓冲区\bin\Debug\123-固定大小的缓冲区.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\123-固定大小的缓冲区\obj\Debug\123-固定大小的缓冲区.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\123-固定大小的缓冲区\obj\Debug\123-固定大小的缓冲区.pdb

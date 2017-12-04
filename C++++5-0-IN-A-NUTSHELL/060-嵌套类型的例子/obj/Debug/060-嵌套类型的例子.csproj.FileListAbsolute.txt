@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\060-嵌套类型的例子\bin\Debug\060-嵌套类型的例子.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\060-嵌套类型的例子\bin\Debug\060-嵌套类型的例子.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\060-嵌套类型的例子\bin\Debug\060-嵌套类型的例子.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\060-嵌套类型的例子\obj\Debug\060-嵌套类型的例子.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\060-嵌套类型的例子\obj\Debug\060-嵌套类型的例子.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\060-嵌套类型的例子\obj\Debug\060-嵌套类型的例子.pdb

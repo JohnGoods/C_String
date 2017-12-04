@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\128-标准的XML文档标签\bin\Debug\128-标准的XML文档标签.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\128-标准的XML文档标签\bin\Debug\128-标准的XML文档标签.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\128-标准的XML文档标签\bin\Debug\128-标准的XML文档标签.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\128-标准的XML文档标签\obj\Debug\128-标准的XML文档标签.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\128-标准的XML文档标签\obj\Debug\128-标准的XML文档标签.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\128-标准的XML文档标签\obj\Debug\128-标准的XML文档标签.pdb

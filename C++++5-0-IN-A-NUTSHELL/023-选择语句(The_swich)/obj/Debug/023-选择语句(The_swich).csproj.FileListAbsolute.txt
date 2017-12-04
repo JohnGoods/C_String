@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\023-选择语句(The_swich)\bin\Debug\023-选择语句(The_swich).exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\023-选择语句(The_swich)\bin\Debug\023-选择语句(The_swich).exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\023-选择语句(The_swich)\bin\Debug\023-选择语句(The_swich).pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\023-选择语句(The_swich)\obj\Debug\023-选择语句(The_swich).exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\023-选择语句(The_swich)\obj\Debug\023-选择语句(The_swich).pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\023-选择语句(The_swich)\obj\Debug\023-选择语句(The_swich).csprojResolveAssemblyReference.cache

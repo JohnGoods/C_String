@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\112-无动态接受者的动态调用\bin\Debug\112-无动态接受者的动态调用.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\112-无动态接受者的动态调用\bin\Debug\112-无动态接受者的动态调用.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\112-无动态接受者的动态调用\bin\Debug\112-无动态接受者的动态调用.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\112-无动态接受者的动态调用\obj\Debug\112-无动态接受者的动态调用.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\112-无动态接受者的动态调用\obj\Debug\112-无动态接受者的动态调用.pdb

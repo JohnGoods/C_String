@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\010-默认数组元素初始化\bin\Debug\010-默认数组元素初始化.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\010-默认数组元素初始化\bin\Debug\010-默认数组元素初始化.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\010-默认数组元素初始化\bin\Debug\010-默认数组元素初始化.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\010-默认数组元素初始化\obj\Debug\010-默认数组元素初始化.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\010-默认数组元素初始化\obj\Debug\010-默认数组元素初始化.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\010-默认数组元素初始化\obj\Debug\010-默认数组元素初始化.csprojResolveAssemblyReference.cache

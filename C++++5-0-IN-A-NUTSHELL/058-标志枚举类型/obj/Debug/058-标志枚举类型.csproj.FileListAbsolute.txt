@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\058-标志枚举类型\bin\Debug\058-标志枚举类型.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\058-标志枚举类型\bin\Debug\058-标志枚举类型.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\058-标志枚举类型\bin\Debug\058-标志枚举类型.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\058-标志枚举类型\obj\Debug\058-标志枚举类型.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\058-标志枚举类型\obj\Debug\058-标志枚举类型.pdb

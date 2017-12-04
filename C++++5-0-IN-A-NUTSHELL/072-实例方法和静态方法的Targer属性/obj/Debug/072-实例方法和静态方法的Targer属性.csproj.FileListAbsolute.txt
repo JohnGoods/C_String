@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\072-实例方法和静态方法的Targer属性\bin\Debug\072-实例方法和静态方法的Targer属性.exe.config
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\072-实例方法和静态方法的Targer属性\bin\Debug\072-实例方法和静态方法的Targer属性.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\072-实例方法和静态方法的Targer属性\bin\Debug\072-实例方法和静态方法的Targer属性.pdb
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\072-实例方法和静态方法的Targer属性\obj\Debug\072-实例方法和静态方法的Targer属性.exe
+C:\Users\Administrator\Desktop\C#5.0 IN A NUTSHELL\C++++5-0-IN-A-NUTSHELL\072-实例方法和静态方法的Targer属性\obj\Debug\072-实例方法和静态方法的Targer属性.pdb
